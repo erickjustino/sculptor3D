@@ -7,4 +7,5 @@ Projeto desenvolvido na segunda unidade da disciplina de programação avançada
 
 ## Autores
 Erick Vinicius Justino da Silva - 6° período do curso de ciências e tecnologia com ênfase em computação (UFRN).
+
 Gabriel Uchôa da Escóssia - 6° período do curso de ciências e tecnologia com ênfase em computação (UFRN).
