@@ -2,6 +2,7 @@
 
 ## Sobre o projeto
 Criar um código orientado a objetos em C++ capaz de criar estruturas em 3D por meio de arquivo .off
+
 Projeto desenvolvido na segunda unidade da disciplina de programação avançada (DCA1202).
 
 ## Autores
